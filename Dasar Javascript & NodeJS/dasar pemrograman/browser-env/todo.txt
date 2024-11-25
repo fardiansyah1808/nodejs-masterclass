@@ -1,0 +1,4 @@
+1. Berinteraksi dengan console javascript dan jendela browser
+2. Menyambungkan kode HTML dengan kode javascript
+3. Memodifikasi elemen HTML menggunakan javascript
+4. Menggunakan Browser APIs
