@@ -1,0 +1,13 @@
+{
+  "type": "commonjs",
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Belajar Web Server",
+  "main": "main.js",
+  "scripts": {
+    "test": "test",
+    "dev": "node --watch main.js"
+  },
+  "author": "Fardiansyah",
+  "license": "MIT"
+}

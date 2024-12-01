@@ -1,0 +1,20 @@
+{
+  "name": "automated-testing-jest",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Learning Jest Testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "jest-testing"
+  ],
+  "author": "Fardiansyah",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.25.9",
+    "@jest/globals": "^29.7.0",
+    "jest": "^29.7.0"
+  }
+}
