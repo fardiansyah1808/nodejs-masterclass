@@ -1,13 +1,11 @@
 {
-  "type": "commonjs",
   "name": "nodejs",
   "version": "1.0.0",
-  "description": "Belajar Web Server",
   "main": "main.js",
   "scripts": {
-    "test": "test",
-    "dev": "node --watch main.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Fardiansyah",
-  "license": "MIT"
+  "license": "MIT",
+  "description": ""
 }
